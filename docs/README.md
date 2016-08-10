@@ -15,6 +15,7 @@ Installation guide for developers (technical):
 
 1. [Setting up git](guides/setting-up-git.md)
 1. [Publishing on the web (Heroku)](guides/publishing-on-heroku.md)
+1. [Publishing on the web (Cloud Foundry)](guides/publishing-on-cloud-foundry.md)
 
 # Documentation
 
